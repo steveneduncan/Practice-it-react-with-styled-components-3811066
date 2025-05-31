@@ -19,13 +19,13 @@ ProductInfo.propTypes = {
 /////04_01 EXAMPLE////
 
 const InfoContainer = styled.div`
-  background-color: #f0f0f0;
+  background-color:rgb(252, 247, 247);
   padding: 10px;
   border-radius: 8px;
   margin-bottom: 15px;
 `;
 
-const ProductName = styled.h2`
+const ProductName = styled.h3`
   color: #333;
 `;
 
